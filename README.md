@@ -30,6 +30,6 @@ Each task has its own corresponding directory with source code, explanations, an
 ## Contributing
 While this repository primarily serves as a record of my internship tasks, I welcome suggestions, improvements, and collaborations. Feel free to open an issue or submit a pull request if you have any valuable input.
 
-Yash Marane
+Arnab Roy
 
 Happy coding!
