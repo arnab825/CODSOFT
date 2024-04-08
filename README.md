@@ -4,7 +4,7 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 
 ## Tasks Overview
 
-### Task 1: Number Guessing Game
+### Task 1: Number Game
 - Generate random numbers, prompt user guesses, and provide feedback.
 - Allow multiple rounds and calculate scores.
 
